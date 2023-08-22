@@ -18,7 +18,7 @@ Cuantos codificadores prendidos?
 Cuantas Suscripciones, por decodificador.
 
 Relación entre, celular y decodificadores, para sacar estadísticas de compra de productos, cadenas de supermercados, tiendas. 
-
+RAITING, de las entrevistas de los canales, nacionales?? 
 
 
 
